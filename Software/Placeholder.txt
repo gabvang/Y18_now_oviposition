@@ -1,0 +1,1 @@
+Because Github will not retain empty directories
