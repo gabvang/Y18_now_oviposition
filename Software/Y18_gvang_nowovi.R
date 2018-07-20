@@ -9,6 +9,7 @@ library(FSA)
 #----------------------------------------------------------------------------
 # 1 Import data, clean, characterize
 
+
 Eggs <- as_tibble(read.csv("./Data/Y18_nowovi_06_13_data.csv"))
 View(Eggs)
 str(Eggs)
